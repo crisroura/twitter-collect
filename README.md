@@ -6,6 +6,10 @@ It uses tweetstream library and stores the information in a log file and a SQLit
 
 Check default access level restrictions and rate limitations in https://dev.twitter.com/docs/api/1.1/post/statuses/filter
 
+Requirements
+---------------
+* twitter gem - https://github.com/sferik/twitter http://www.rubydoc.info/gems/twitter
+* tweetstream gem - http://www.rubydoc.info/github/tweetstream/tweetstream
 
 Configuration
 ----------------
